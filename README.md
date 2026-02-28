@@ -14,5 +14,6 @@ I build AI analytics dashboards at Microsoft — helping organizations measure C
 
 ## Connect
 
-- **LinkedIn**: [Keith McGrane](https://www.linkedin.com/in/keithmcgrane/)
+- **Website**: [ainroi.com](https://www.ainroi.com/)
+- **LinkedIn**: [Keith McGrane](https://www.linkedin.com/in/keith-mcgrane-46184029/)
 - **GitHub**: You're already here
